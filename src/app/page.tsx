@@ -1,6 +1,7 @@
+import Header from "@/components/icons/Header";
 
 export default function Home() {
   return (
-    <p>home page</p>
+    <Header />
   );
 }
