@@ -4,7 +4,10 @@
   --background: #141414;
   --foreground: #fff;
 
+  --primary: #703BF7;
+
   --gray-1: #191919;
+  --gray-2: #999999;
 
   --stroke: #262626;
 }
@@ -13,7 +16,10 @@
   --color-background: var(--background);
   --color-foreground: var(--foreground);
 
+  --color-primary: var(--primary);
+
   --color-gray-1: var(--gray-1);
+  --color-gray-2: var(--gray-2);
 
   --color-stroke: var(--stroke);
 
