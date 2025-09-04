@@ -6,6 +6,7 @@ import FeaturedProperties from "@/components/FeaturedProperties";
 import Testimonials from "@/components/Testimonials";
 import Faq from "@/components/Faq";
 import Promo from "@/components/Promo";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -17,8 +18,7 @@ export default function Home() {
       <Testimonials />
       <Faq />
       <Promo />
-
-      <div className="h-screen"></div>
+      <Footer />
     </>
   );
 }
